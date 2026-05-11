@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: hello-app:v1
+        image: sanikanayse/new
         ports:
         - containerPort: 5000
